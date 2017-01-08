@@ -34,4 +34,4 @@ Help options:
 
 ## Compilation
 
-The Makefile is known good on OS X but requires linux popt (available via brew).
+The Makefile is known good on OS X but requires linux popt (available via brew). On linux popt-dev is required.
